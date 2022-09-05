@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **programming resources**
 
-- 👨‍💻 All of my projects are available at [my repositories](my repositories)
-
 - 💬 Ask me about **my progress**
 
 - 📫 How to reach me **twitter: @ayreneYS**
